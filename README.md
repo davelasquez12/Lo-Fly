@@ -31,6 +31,10 @@ go generate ./internal/tracker/...
 go test ./...
 ```
 
+## Infrastructure
+
+AWS infrastructure lives in `infra/` as a Go CDK app. See `infra/README.md` for synth and deploy commands.
+
 ## API
 
 ### Create a tracker

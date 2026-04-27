@@ -3,3 +3,5 @@ node_modules/
 data/
 coverage/
 .gocache/
+cdk.out/
+.cdk.staging/
